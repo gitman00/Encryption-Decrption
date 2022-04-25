@@ -77,3 +77,13 @@ button:hover {
         background: lightblue;
     }
 }
+@media (max-width:600px) {
+     textarea {
+        min-width: 90%;
+        min-height: 100px;
+        max-height: 100px;
+        max-width: 90%;
+        padding: 10px;
+        text-align:center;
+    }
+}
