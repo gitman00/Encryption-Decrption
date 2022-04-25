@@ -64,24 +64,12 @@ button:hover {
         max-width: 70%;
         padding: 10px;
     }
-    button {
-        border: none;
-        color: #fff;
-        font-size: 1.2rem;
-        padding: 10px 20px;
-        border-radius: 10px;
-        background: skyblue;
-    }
-    button:hover {
-        cursor: pointer;
-        background: lightblue;
-    }
 }
 @media (max-width:600px) {
      textarea {
         min-width: 90%;
-        min-height: 100px;
-        max-height: 100px;
+        min-height: 150px;
+        max-height: 150px;
         max-width: 90%;
         padding: 10px;
         text-align:center;
